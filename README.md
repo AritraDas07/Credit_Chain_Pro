@@ -109,15 +109,6 @@ We welcome contributions! Please follow these steps:
 
 See our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📧 Contact
-
-**Project Team** - [team@creditchain.pro](mailto:team@creditchain.pro)  
-**Twitter** - [@CreditChainPro](https://twitter.com/CreditChainPro)  
-**Discord** - [Join our Community](https://discord.gg/your-invite-link)
 
 ---
 
